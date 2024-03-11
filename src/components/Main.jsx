@@ -39,19 +39,19 @@ const Main = () => {
             </div>
             <div className="cards">
               <div className="card">
-                <p>Suggest beautiful places to see on an upcoming road trip</p>
+                <p>Shrey</p>
                 <img src={compass} alt="" />
               </div>
               <div className="card">
-                <p>Briefly beautiful places to see on an upcoming road trip</p>
+                <p>Sadhukhan</p>
                 <img src={bulb} alt="" />
               </div>
               <div className="card">
-                <p>Brainstorm</p>
+                <p>MCA</p>
                 <img src={message} alt="" />
               </div>
               <div className="card">
-                <p> Improve the thing</p>
+                <p>DEV | OPS</p>
                 <img src={code} alt="" />
               </div>
             </div>
